@@ -53,11 +53,6 @@ The main interface is built around a 3D scene with three interactive stations:
 2. **Notes & PDF** — read structured notes and export the study guide.
 3. **Questions** — view AI-generated multiple-choice questions and select answers.
 
-The project includes a `src/assets/hero.png` image asset. Add an updated application screenshot here when you have one:
-
-```md
-![YouTube AI Study Companion screenshot](./yt/src/assets/hero.png)
-```
 
 ---
 
